@@ -1,5 +1,8 @@
 /*
 3 Sum Problem: In a set of N integers, how many unique triplets sums to zero.
+
+equation for run-time: T(N) = (N^2.9978)*(2^-30)
+-The running time is exponential as the input size, N increases.  
 */
 
 //BRUTE FORCE ALGORITHM
